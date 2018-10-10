@@ -1,0 +1,14 @@
+/dist
+/tmp
+
+
+/public
+
+oj-client/dist/
+
+/.idea
+.project
+.classpath
+.c9/
+
+node_modules/
